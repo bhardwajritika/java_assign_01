@@ -4,7 +4,7 @@ public class largest_number {
 
 	    public static void main(String[] args) {
 
-	        int a = 8, b = 3, c = 2;
+	        double a = 8, b = 3, c = 2;
 
 	        if( a >= b && a >= c)
 	            System.out.println(a + " is the largest number.");
